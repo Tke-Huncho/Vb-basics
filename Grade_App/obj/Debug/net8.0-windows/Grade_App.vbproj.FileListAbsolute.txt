@@ -1,0 +1,16 @@
+C:\Users\hansm\Desktop\Grade_App\bin\Debug\net8.0-windows\Grade_App.exe
+C:\Users\hansm\Desktop\Grade_App\bin\Debug\net8.0-windows\Grade_App.deps.json
+C:\Users\hansm\Desktop\Grade_App\bin\Debug\net8.0-windows\Grade_App.runtimeconfig.json
+C:\Users\hansm\Desktop\Grade_App\bin\Debug\net8.0-windows\Grade_App.dll
+C:\Users\hansm\Desktop\Grade_App\bin\Debug\net8.0-windows\Grade_App.pdb
+C:\Users\hansm\Desktop\Grade_App\obj\Debug\net8.0-windows\Grade_App.Form1.resources
+C:\Users\hansm\Desktop\Grade_App\obj\Debug\net8.0-windows\Grade_App.vbproj.GenerateResource.cache
+C:\Users\hansm\Desktop\Grade_App\obj\Debug\net8.0-windows\Grade_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hansm\Desktop\Grade_App\obj\Debug\net8.0-windows\Grade_App.AssemblyInfoInputs.cache
+C:\Users\hansm\Desktop\Grade_App\obj\Debug\net8.0-windows\Grade_App.AssemblyInfo.vb
+C:\Users\hansm\Desktop\Grade_App\obj\Debug\net8.0-windows\Grade_App.vbproj.CoreCompileInputs.cache
+C:\Users\hansm\Desktop\Grade_App\obj\Debug\net8.0-windows\Grade_App.dll
+C:\Users\hansm\Desktop\Grade_App\obj\Debug\net8.0-windows\refint\Grade_App.dll
+C:\Users\hansm\Desktop\Grade_App\obj\Debug\net8.0-windows\Grade_App.pdb
+C:\Users\hansm\Desktop\Grade_App\obj\Debug\net8.0-windows\Grade_App.genruntimeconfig.cache
+C:\Users\hansm\Desktop\Grade_App\obj\Debug\net8.0-windows\ref\Grade_App.dll
